@@ -1,9 +1,0 @@
-wap to display reverse no. from 10 to 1 
-wap which display the following output *
-			            **
-                                                            ***
-wap which display the total of 1 to 25 no.
-wap which display even numbers between 30 to 60
-wap which display divisible of 5 between 50 to 100
-
-	
